@@ -7,7 +7,7 @@
 	 
 <h2>Directory structure:</h2>
 <br>
-<img src="" title = "project structure"/>
+<img src="https://github.com/avikrish-ak/Karate-API-Framework/blob/main/src/test/resources/Images/ProjectStructure.PNG" title = "project structure"/>
 
 <br>
 
@@ -20,13 +20,13 @@
 
 <h2>Folders for these reports:</h2>
 <br>
-<img src = "" title = "karate report"/>
+<img src = "https://github.com/avikrish-ak/Karate-API-Framework/blob/main/src/test/resources/Images/ReportFolder.PNG" title = "karate report"/>
 <br>
 
 <h2>Snapshots - karate - Pretty - Report: See here </h2>
 <br>
 <ul>
-<li><a href = "" title = "karate report pretty">karate report summarized</a></li>
+<li><a href = "https://github.com/avikrish-ak/Karate-API-Framework/blob/main/src/test/resources/Images/ReportSummary.PNG" title = "karate report pretty">karate report summarized</a></li>
 </ul>
 
 
