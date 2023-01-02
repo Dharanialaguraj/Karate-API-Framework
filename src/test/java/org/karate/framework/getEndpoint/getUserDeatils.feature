@@ -12,3 +12,9 @@ Feature: fetching User Details
     Given url 'https://reqres.in/api/users'
     When method GET
     Then status 200
+
+  Scenario: Get Unknown User Details
+
+    Given url 'https://reqres.in/api/unknown'
+    When method GET
+    Then status 200
